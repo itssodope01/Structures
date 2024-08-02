@@ -14,7 +14,7 @@
 
 #### Usefull links and material for Structures/Classes - basics
 
-- Lecture - not available
+
 - aggregate initialization: <https://en.cppreference.com/w/cpp/language/aggregate_initialization>
 - classes: <https://en.cppreference.com/w/cpp/language/classes>
 - data members: <https://en.cppreference.com/w/cpp/language/data_members>
